@@ -56,12 +56,24 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+Peter Lindbergh – Interactive Experience
+(https://peterlindbergh.obys.agency/)
+
+Se toma como referencia por su narrativa visual inmersiva, donde el contenido se presenta a través de un scroll fluido y cinematográfico. Destaca el uso de imagen a gran escala, transiciones suaves y una estructura que guía al usuario de forma intuitiva.
+Aplicación al proyecto: Inspiración para construir una experiencia visual elegante y emocional, donde la imagen y el ritmo narrativo tienen un papel central.
+
+Bond Cars – Evans Halshaw
+(https://www.evanshalshaw.com/more/bondcars/)
+
+Referente por su enfoque interactivo y dinámico, que combina storytelling, animaciones y navegación estructurada. Permite explorar contenido de forma progresiva, manteniendo la atención del usuario.
+Aplicación al proyecto: Inspiración para integrar elementos interactivos y estructurar la información de forma atractiva, facilitando la exploración del contenido.
 
 
 **Necesidad/oportunidad** 
+
+Existe una oportunidad de presentar la moda desde una perspectiva educativa e inmersiva, alejándose de los formatos tradicionales (blogs o galerías estáticas).
+
+El proyecto responde a la necesidad de: acercar la alta costura a un público más amplio, mostrar la conexión entre moda, ciencia y tecnología de forma accesible y generar una experiencia digital atractiva y contemporánea.
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
@@ -106,11 +118,11 @@ Se plantea una narrativa visual, inmersiva y no lineal, donde el usuario explora
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+La evaluación del proyecto se planteará mediante una combinación de test con usuarios, análisis de interacción y valoración cualitativa, con el objetivo de medir tanto la usabilidad como la experiencia visual de la propuesta. Para ello, se realizarán pruebas con un pequeño grupo de usuarios representativos, observando su navegación y recogiendo feedback sobre la claridad del contenido y la facilidad de uso.
 
+Además, se utilizarán encuestas breves para evaluar aspectos como el atractivo visual, el interés generado y la comprensión del contenido. Paralelamente, se analizarán métricas básicas de interacción, como el tiempo de permanencia y la fluidez en la navegación dentro de la presentación desarrollada con Reveal.js.
 
-
+Por último, se llevará a cabo una evaluación técnica para comprobar el correcto funcionamiento del proyecto y su adaptación a distintos dispositivos. Se considerará que la propuesta será exitosa si los usuarios comprenden el enfoque sobre Iris van Herpen, navegan sin dificultad y valoran positivamente la experiencia general.
 
 
 ### Conclusiones y trabajo futuro
