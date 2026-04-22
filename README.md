@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# IRIS VAN HERPEN
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -85,6 +85,8 @@ Se plantea una narrativa visual, inmersiva y no lineal, donde el usuario explora
 
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/17496cdb-9715-4d1d-be40-bd6c5fe14ab1" />
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/0ce8807c-ed9d-484b-ad70-3cbe7136e811" />
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/2560b0cc-7d3d-4bd8-b814-cfebc44de558" />
+
 
 
 
@@ -114,11 +116,27 @@ Se plantea una narrativa visual, inmersiva y no lineal, donde el usuario explora
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto
 
+En principio se ha logrado desarrollar una presentación interactiva funcional, combinando diseño, narrativa y desarrollo web. Aunque con sus diferentes fallos técnicos derivados de las siguientes limitaciones técnicas que comentaremos a continuación.
+  
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+
+- Limitaciones técnicas del framework Reveal.js frente a una web completamente libre
+- Dependencia de conocimientos de programación
+- Ajustes en diseño responsive
+- 
+* Propuestas de mejora (por qué consideras que merece la pena continuar)
+
+- Evolucionar el proyecto hacia una web interactiva completa (no solo presentación)
+- Incorporar animaciones más avanzadas (Three.js, WebGL)
+- Mejorar la experiencia de usuario con mayor interactividad
+  
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+  
+- Uso académico como ejemplo de narrativa digital
+- Portfolio de diseño y desarrollo web
+- Base para futuras experiencias interactivas más complejas
 
 Referencias y recursos: 
 
