@@ -106,13 +106,15 @@ Se plantea una narrativa visual, inmersiva y no lineal, donde el usuario explora
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+El desarrollo del proyecto se planteará como una presentación web interactiva basada en HTML, CSS y JavaScript, estructurada mediante Reveal.js. Este formato permitirá organizar el contenido de forma narrativa e interactiva, facilitando la exploración del universo creativo de Iris van Herpen.
 
-* redes sociales (...) 
+Como parte del proceso de diseño, se desarrollará una imagen visual principal (portada e interfaz) que definirá la identidad estética del proyecto, inspirada en formas orgánicas, materiales translúcidos y estética futurista. Esta se realizará previamente en herramientas de diseño como Figma o similares, y posteriormente se adaptará al entorno web.
 
-* publicidad: banner (... ) 
+Además, se planteará una extensión del proyecto hacia redes sociales, donde se adaptará parte del contenido visual en formato de publicaciones y piezas breves (posts o reels), con el objetivo de reforzar la narrativa y la difusión del proyecto en un entorno digital más amplio.
 
-* ...
+También se desarrollará una pieza de publicidad digital en formato banner, que servirá como elemento promocional del proyecto, manteniendo la coherencia visual y conceptual con la web principal.
+
+En conjunto, todos estos medios se integrarán bajo una misma línea estética y narrativa, buscando crear una experiencia coherente y envolvente donde el usuario pueda explorar el universo creativo de forma progresiva e interactiva.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
